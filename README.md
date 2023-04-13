@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào👋, Tôi là Quốc Hưng</h1>
-<h3 align="center">Not a developer, just a coder</h3>
+<h3 align="center">Một người không hướng tới sự hữu hạn, chỉ có sự hài hòa và vô tận mới có thể làm bạn</h3>
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/73/91/desktop-wallpaper-oreki-x-chitanda-anime-couple-hyouka-school-uniform-chitanda-eru-oreki-houtarou-oreki.jpg" align="center"></img>
 
