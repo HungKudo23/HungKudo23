@@ -1,6 +1,8 @@
 <h1 align="center">Xin chào👋, Tôi là Quốc Hưng</h1>
 <h3 align="center">Not a developer, just a coder</h3>
 
+<img src="C:\Users\hung0\Pictures\Saved Pictures\FZfWmR0UYAYJ4_3.jpg"></img>
+
 - 🌱 Tôi hiện tại đang học về **Spring Framework**
 
 - 👨‍💻 Mọi dự án của tôi có thể tìm qua [https://github.com/HungKudo23](https://github.com/HungKudo23)
