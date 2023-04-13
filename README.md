@@ -3,7 +3,7 @@
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/73/91/desktop-wallpaper-oreki-x-chitanda-anime-couple-hyouka-school-uniform-chitanda-eru-oreki-houtarou-oreki.jpg" align="center"></img>
 
-- 🌱 Mình hiện tại đang học về **Spring Framework và Flutter**
+- 🌱 Mình hiện tại đang học về **Flutter** và **Spring Framework**
 
 - 👨‍💻 Mọi dự án của mình sau này có thể tìm qua [https://github.com/HungKudo23](https://github.com/HungKudo23) ( hiện tại thì sẽ chưa có dự án nào cả )
 
