@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/17424519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17424519" height="30" width="40" /></a>
 <a href="https://fb.com/quochung.2337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quochung.2337" height="30" width="40" /></a>
-<a href="https://discord.gg/user/Hưng#4917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hưng#4917" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Các ngôn ngữ và công cụ tôi sử dụng:</h3>
