@@ -11,7 +11,7 @@
 
 - 📫 Bạn có thể liên hệ với mình qua **hung03072003@gmail.com**
 
-<h3 align="left">Kết nối với tôi qua:</h3>
+<h3 align="left">Liên hệ với mình qua:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/17424519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17424519" height="30" width="40" /></a>
 <a href="https://fb.com/quochung.2337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quochung.2337" height="30" width="40" /></a>
