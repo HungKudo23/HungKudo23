@@ -1,15 +1,15 @@
-<h1 align="center">Xin chào👋, Tôi là Hưng</h1>
+<h1 align="center">Chào mọi người👋, mình là Hưng</h1>
 <h3 align="center">Một người không hướng tới sự hữu hạn, chỉ có sự hài hòa và vô tận mới có thể làm bạn</h3>
 
 <img src="https://e1.pxfuel.com/desktop-wallpaper/73/91/desktop-wallpaper-oreki-x-chitanda-anime-couple-hyouka-school-uniform-chitanda-eru-oreki-houtarou-oreki.jpg" align="center"></img>
 
-- 🌱 Tôi hiện tại đang học về **Spring Framework**
+- 🌱 Mình hiện tại đang học về **Spring Framework và Flutter**
 
-- 👨‍💻 Mọi dự án của tôi có thể tìm qua [https://github.com/HungKudo23](https://github.com/HungKudo23)
+- 👨‍💻 Mọi dự án của mình sau này có thể tìm qua [https://github.com/HungKudo23](https://github.com/HungKudo23) ( hiện tại thì sẽ chưa có dự án nào cả )
 
-- 💬 Bạn có thể hỏi tôi về **Java, Kotlin, Dart, Objective-C**
+- 💬 Bạn có thể hỏi mình về **Java, Kotlin, Dart, Objective-C**
 
-- 📫 Bạn có thể liên hệ với tôi qua **hung03072003@gmail.com**
+- 📫 Bạn có thể liên hệ với mình qua **hung03072003@gmail.com**
 
 <h3 align="left">Kết nối với tôi qua:</h3>
 <p align="left">
