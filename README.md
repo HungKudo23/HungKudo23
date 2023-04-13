@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào👋, Tôi là Quốc Hưng</h1>
 <h3 align="center">Not a developer, just a coder</h3>
 
-<img src="C:\Users\hung0\Pictures\Saved Pictures\FZfWmR0UYAYJ4_3.jpg" width="2500" height="1216"></img>
+<img src="C:\Users\hung0\Pictures\Saved Pictures\FZfWmR0UYAYJ4_3.jpg" width="1216" height="2500"></img>
 
 - 🌱 Tôi hiện tại đang học về **Spring Framework**
 
