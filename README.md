@@ -1,16 +1,7 @@
 <h1 align="center">Xin chào👋, Tôi là Quốc Hưng</h1>
 <h3 align="center">Not a developer, just a coder</h3>
 
-<img src="https://e1.pxfuel.com/desktop-wallpaper/73/91/desktop-wallpaper-oreki-x-chitanda-anime-couple-hyouka-school-uniform-chitanda-eru-oreki-houtarou-oreki.jpg" class="center"></img>
-
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-</style>
+<img src="https://e1.pxfuel.com/desktop-wallpaper/73/91/desktop-wallpaper-oreki-x-chitanda-anime-couple-hyouka-school-uniform-chitanda-eru-oreki-houtarou-oreki.jpg" align="center"></img>
 
 - 🌱 Tôi hiện tại đang học về **Spring Framework**
 
