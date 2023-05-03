@@ -7,7 +7,7 @@
 
 - 👨‍💻 Mọi dự án của mình sau này có thể tìm qua [https://github.com/HungKudo23](https://github.com/HungKudo23) ( hiện tại thì sẽ chưa có dự án nào cả )
 
-- 💬 Bạn có thể hỏi mình về **Java, Kotlin, SQLite, Dart, Python**
+- 💬 Bạn có thể hỏi mình về **Java, Kotlin, SQLite, Dart**
 
 - 📫 Bạn có thể liên hệ với mình qua **hung03072003@gmail.com**
 
